@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo "Hello, $LOGNAME"
 echo "Today's date is `date`"
 echo "Username is `who i am`"
