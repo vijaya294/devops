@@ -4,7 +4,7 @@
 
   vars:
     subnet_id: "subnet-0f745b1f2846b188f" # replace with your subnet id
-    sg_id: "sg-09a300a3729062c5a"
+    sg_id: "sg-03899c8eca1a98ffa"
     ami_id: "ami-09c813fb71547fc4f"     #RHEL-9-DevOps-Practice
 
     instances:
