@@ -1,6 +1,6 @@
 #!/bin/bash
 
 echo "Today's date is `date`"
-echo "Username is `who i am`"
+echo "Username is `username`"
 echo "Current directory is `pwd`"
 
