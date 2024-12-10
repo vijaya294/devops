@@ -6,5 +6,5 @@ CMD ["nginx", "-g", "daemon off;"]
 CMD ["sleep", "100"]
 
 ENV name="Vijaya" \
-    profession="Devops Engineer"
+    profession="Devops Engineer" \
     location="UK"
