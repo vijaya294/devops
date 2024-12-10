@@ -8,3 +8,7 @@ CMD ["nginx", "-g", "daemon off;"]
 ENV name="Vijaya" \
     profession="Devops Engineer" \
     location="UK"
+
+LABEL name="Vijaya" \
+      profession="Devops Engineer" \
+      location="UK"
