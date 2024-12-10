@@ -9,13 +9,13 @@ spec:
   replicas: 3
   selector:
     matchLabels:     # these are used to select the pod to create replicas
-      tier: frontend
       app: nginx
+      tier: frontend
   template:
     metadata:
       labels:        # these labels belongs to pod
-        tier: frontend
         app: nginx
+        tier: frontend
   spec:
     containers:
       - name: nginx
